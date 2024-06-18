@@ -1,2 +1,2 @@
 # tailwind-stacked-list
- I recreated a tailwind component with HTML and CSS
+ I recreated a tailwind stacked list component with HTML and CSS
